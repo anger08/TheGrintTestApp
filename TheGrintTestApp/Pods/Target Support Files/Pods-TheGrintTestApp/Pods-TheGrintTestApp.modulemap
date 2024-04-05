@@ -1,0 +1,6 @@
+framework module Pods_TheGrintTestApp {
+  umbrella header "Pods-TheGrintTestApp-umbrella.h"
+
+  export *
+  module * { export * }
+}
